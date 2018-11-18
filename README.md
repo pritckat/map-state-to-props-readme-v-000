@@ -24,7 +24,7 @@ Let's add the following code to our `src/index.js` file:
 
 ```javascript
 // ./src/index.js
-
+beep.
 import React from 'react';
 import ReactDOM from 'react-dom';
 import { createStore } from 'redux';
